@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 匡泓畅
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hongchang Kuang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hongchang
+last_name: Kuang
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computer Engineering Student at UCLA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Los Angeles
+    url: https://www.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include IoT, communication system, BCI and signal processing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet of Things
+  - Brain Computer Interface
+  - Communication System
+  - Signal Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Electrical and Computer Engineering
+      institution: Carnegie Mellon University
+      year: 2026
+    - course: BSc in Computer Engineering
+      institution: University of California, Los Angeles
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,38 +50,58 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: ""
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
+      - name: C/C++
+        description: ""
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+        icon: cplusplus
+        icon_pack: devicon
+      - name: JavaScript
+        description: ""
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
+        icon: javascript
+        icon_pack: devicon
+      - name: Java
+        description: ""
+        percent: 60
+        icon: java
+        icon_pack: devicon
+      - name: MATLAB
+        description: ""
+        percent: 60
+        icon: matlab
+        icon_pack: devicon
+  - name: Hobbies
+    color: "#eeac02"
+    color_border: "#f0bf23"
+    items:
+      - name: Gaming
+        description: ""
         percent: 100
-        icon: cat
+        icon: gamepad
         icon_pack: fas
-      - name: Photography
-        description: ''
+      - name: Dogs
+        description: ""
         percent: 80
-        icon: camera-retro
+        icon: dog
+        icon_pack: fas
+      - name: Soccer
+        description: ""
+        percent: 80
+        icon: futbol
+        icon_pack: fas
+      - name: Formula 1
+        description: ""
+        percent: 80
+        icon: flag-checkered
+        icon_pack: fas
+      - name: Basketball
+        description: ""
+        percent: 60
+        icon: basketball
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,22 +111,25 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: "/#contact"
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=cenAlYoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/CedricKuang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hongchang-kuang-870196223/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/cedric_kuang/?next=%2F
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +141,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hongchang Kuang is an undergraduate computer engineering student at University of California, Los Angeles. His research interests include IoT, communication system, BCI and signal processing. He currently serves as the undergraduate researcher at Interconnected & Integrated Bioelectronics Lab (I2BL) lead by professor Sam Emaminejad with focus on Ferrobotic System software design. He will further pursue a MS in ECE degree at Carnegie Mellon University on Fall 2024.
 {style="text-align: justify;"}
