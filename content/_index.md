@@ -135,7 +135,7 @@ sections:
         folders:
           - post
         author: ""
-        category: public
+        category: ""
         tag: ""
         exclude_featured: false
         exclude_future: false

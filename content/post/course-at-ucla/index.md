@@ -2,7 +2,6 @@
 title: Courses at UCLA
 date: "2024-04-03"
 summary: All courses that I have taken at UCLA
-category: public
 ---
 
 ## Brief
