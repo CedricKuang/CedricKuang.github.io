@@ -71,15 +71,22 @@ sections:
           date_end: ""
           description: |2-
               Conducted microfluidic devices and system research in I2BL at UCLA with professor Sam Emaminejad; mainly focused on Ferrobotic System development to perform massive parallelized and sequential fluidic operations at small length scale in a collaborative manner. Devised and programmed Ferrobotic control platform using Python and JavaScript; achieved Ferrobot path planning, scaling, and optimization at the software and embedded system firmware level; improved Ferrobot path programming efficiency by 50%.
-
         - title: Software Development Engineer Intern
           company: Amazon Web Service
-          company_url: ""
+          company_url: "https://aws.amazon.com/"
           company_logo: aws
           location: Seattle, WA
           date_start: "2023-06-16"
           date_end: "2023-09-16"
           description: Collaborated with engineers in software and system design process in AWS Elastic Container Service organization; designed and implemented load testing module for production level API using Java17 and commons math probability library. Achieved real-life stochastic traffic pattern generation for API transaction and random AWS credentials sampling features with configurable probability model in the project; integrated the project under organization Gamma testing environment with two production-level APIs testing procedure Drafted 16 pages technical design document with system structure graph and call sequence diagrams; presented the final demo in front of whole ECS organization.
+        - title: Internal Tools Developer
+          company: Daily Bruin
+          company_url: "https://dailybruin.com/"
+          company_logo: db
+          location: Los Angeles, CA
+          date_start: "2022-06-20"
+          date_end: "2023-06-16"
+          description: Lead the backend intern team to build MERN stack projects; arrange and conduct weekly work meeting; coordinate backend workflow and work distribution Design backend APIs and systems using Node.js and Express.js; maintain MongoDB Atlas database and AWS S3 Bucket deployment Collect and review user feedbacks from Daily Bruin editors; integrate corresponding features into the projects.
     design:
       columns: "2"
   - block: accomplishments
@@ -95,33 +102,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.udemy.com/certificate/UC-ba1bc62a-99f9-4263-8864-10f3498c620d/
           date_end: ""
-          date_start: "2021-01-25"
-          description: ""
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ""
-        - certificate_url: https://www.edx.org
+          date_start: "2022-07-08"
+          description: Fundamentals of Verilog programming and FPGA digital systems design
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: Verilog for an FPGA Engineer with Xilinx Vivado Design Suite
+          url: https://www.udemy.com/course/verilog-for-an-engineer-with-xilinx-vivado-design-suite/?couponCode=ST13MT40224
+        - certificate_url: https://www.udemy.com/certificate/UC-66cbcd49-c09b-49fd-be4c-39094cd9f916/
           date_end: ""
-          date_start: "2021-01-01"
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: "2020-12-21"
-          date_start: "2020-07-01"
-          description: ""
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: "Object-Oriented Programming in R"
-          url: ""
+          date_start: "2022-03-10"
+          description: MERN stack development foundation
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: React, NodeJS, Express & MongoDB - The MERN Fullstack Guide
+          url: https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/?couponCode=ST13MT40224
     design:
       columns: "2"
   - block: collection

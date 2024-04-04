@@ -57,19 +57,23 @@ skills:
       - name: C/C++
         description: ""
         percent: 100
-        icon: devicon/cplusplus
+        icon: c
+        icon_pack: fas
       - name: JavaScript
         description: ""
         percent: 60
-        icon: devicon/javascript
+        icon: js
+        icon_pack: fas
       - name: Java
         description: ""
         percent: 60
-        icon: devicon/java
+        icon: java
+        icon_pack: fas
       - name: MATLAB
         description: ""
         percent: 60
-        icon: devicon/matlab
+        icon: m
+        icon_pack: fas
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
