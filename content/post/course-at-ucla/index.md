@@ -15,6 +15,6 @@ I guess I will open another note to talk about this specifically. If you are a p
 
 ## Electrical and Computer Engineering
 
-[EC ENGR 2: Physics for Electrical Engineers]({{< relref "../ece2/" >}})
+[EC ENGR 2: Physics for Electrical Engineers]({{% ref "/post/ece2" %}})
 
-[EC ENGR 3: Introduction to Electrical Engineering]({{< relref "../ece3/" >}})
+[EC ENGR 3: Introduction to Electrical Engineering]({{% ref "/post/ece3" %}})
