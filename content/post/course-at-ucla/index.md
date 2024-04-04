@@ -16,7 +16,7 @@ I guess I will open another note to talk about this specifically. If you are a p
 
 [EC ENGR 2: Physics for Electrical Engineers]({{< relref "/post/course-at-ucla/courses-des/ece/ece2" >}})
 
-[EC ENGR 3: Introduction to Electrical Engineering]({{< relref "/post/course-at-ucla/courses-des/ece/ece3" >}})
+[EC ENGR 3: Introduction to Electrical Engineering]({{< relref "./courses-des/ece/ece3" >}})
 
 [EC ENGR 100: Electrical and Electronic Circuits]({{< relref "/post/course-at-ucla/courses-des/ece/ece10" >}})
 
