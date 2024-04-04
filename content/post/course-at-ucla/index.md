@@ -2,6 +2,7 @@
 title: Courses at UCLA
 date: "2024-04-03"
 summary: All courses that I have taken at UCLA
+category: public
 ---
 
 ## Brief
@@ -14,11 +15,11 @@ I guess I will open another note to talk about this specifically. If you are a p
 
 ## Electrical and Computer Engineering
 
-[EC ENGR 2: Physics for Electrical Engineers]({{< relref "/post/course-at-ucla/courses-des/ece/ece2" >}})
+[EC ENGR 2: Physics for Electrical Engineers]({{< relref "../ece2" >}})
 
-[EC ENGR 3: Introduction to Electrical Engineering]({{< relref "./courses-des/ece/ece3" >}})
+[EC ENGR 3: Introduction to Electrical Engineering]({{< relref "../ece3" >}})
 
-[EC ENGR 100: Electrical and Electronic Circuits]({{< relref "/post/course-at-ucla/courses-des/ece/ece10" >}})
+<!-- [EC ENGR 100: Electrical and Electronic Circuits]({{< relref "/post/course-at-ucla/courses-des/ece/ece10" >}})
 
 [EC ENGR 101A: Engineering Electromagnetics]({{< relref "/post/course-at-ucla/courses-des/ece/ece101A" >}})
 
@@ -48,4 +49,4 @@ I guess I will open another note to talk about this specifically. If you are a p
 
 [EC ENGR 188: Special Courses in Electrical Engineering: Engineering Interactive System]({{< relref "/post/course-at-ucla/courses-des/ece/ece188" >}})
 
-[EC ENGR 239AS: Special Topics in Signals and Systems: Neural Networks and Deep Learning 2]({{< relref "/post/course-at-ucla/courses-des/ece/ece188" >}})
+[EC ENGR 239AS: Special Topics in Signals and Systems: Neural Networks and Deep Learning 2]({{< relref "/post/course-at-ucla/courses-des/ece/ece188" >}}) -->
