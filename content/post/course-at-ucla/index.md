@@ -15,4 +15,6 @@ I guess I will open another note to talk about this specifically. If you are a p
 
 ## Electrical and Computer Engineering
 
-[Testing Page]({{< relref "../blog-with-jupyter" >}})
+[EC ENGR 2: Physics for Electrical Engineers]({{< relref "../ece2/" >}})
+
+[EC ENGR 3: Introduction to Electrical Engineering]({{< relref "../ece3/" >}})
