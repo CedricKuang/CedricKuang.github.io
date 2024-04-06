@@ -136,7 +136,7 @@ sections:
           - post
         author: ""
         category: ""
-        tag: ["public"]
+        tag: public
         exclude_featured: false
         exclude_future: false
         exclude_past: false
