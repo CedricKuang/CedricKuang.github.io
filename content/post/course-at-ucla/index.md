@@ -1,6 +1,6 @@
 ---
 title: Courses at UCLA
-date: "2024-04-03"
+date: "2024-04-06"
 summary: All courses that I have taken at UCLA
 authors: ["admin"]
 tag: ["public"]
@@ -19,3 +19,5 @@ I guess I will open another note to talk about this specifically. If you are a p
 [EC ENGR 2: Physics for Electrical Engineers]({{% ref "/post/ece2" %}})
 
 [EC ENGR 3: Introduction to Electrical Engineering]({{% ref "/post/ece3" %}})
+
+[EC ENGR 100: Electrical and Electronic Circuits]({{% ref "/post/ece100" %}})
