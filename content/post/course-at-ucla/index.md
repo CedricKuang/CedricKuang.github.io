@@ -21,3 +21,5 @@ I guess I will open another note to talk about this specifically. If you are a p
 [EC ENGR 3: Introduction to Electrical Engineering]({{% ref "/post/ece3" %}})
 
 [EC ENGR 100: Electrical and Electronic Circuits]({{% ref "/post/ece100" %}})
+
+[EC ENGR 101A: Engineering Electromagnetics]({{% ref "/post/ece101a" %}})
